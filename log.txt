@@ -1,0 +1,48 @@
+commit 723238d7b1e68ff25c40c0ebea6df20e26eba2e9
+Merge: b07e980 e6fcd33
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 17:10:19 2026 +0300
+
+    merge feature-b
+
+commit e6fcd336fae0b528bdd330a92b0d2674d5d9c6cf
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 17:07:24 2026 +0300
+
+    refactor feature-b
+
+commit b07e980e55593ad48b67cfb8bd0e8838c5ee8b8b
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 17:06:10 2026 +0300
+
+    refactor main
+
+commit 2eb36b72f69e736943ecc951a5febc2e76ca17f4
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 16:55:39 2026 +0300
+
+    add feature-b
+
+commit 47e52ae4f846c33f0bc396a40b750a195b8ebcf2
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 16:53:56 2026 +0300
+
+    add gitignore
+
+commit 3f44cf8aebd4700c9651bb60fe34805238079ae0
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 16:51:49 2026 +0300
+
+    add str 4 in feature-a
+
+commit 875db09e688488d1642537042e8ac19df8921cce
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 16:50:46 2026 +0300
+
+    add feature-a
+
+commit 8d447dfc939dd3cbe2c324bb30f993243b12d424
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 16:40:22 2026 +0300
+
+    Initial commit
