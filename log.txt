@@ -1,3 +1,15 @@
+commit 0e19282d6a32f61b1425c3a089385f1d87a0bd94
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 17:27:04 2026 +0300
+
+    conflict.pdf
+
+commit f3871a9c6f2647b3b8fb4b9850eff51b8e8bf247
+Author: afonia <afonia_university@bk.ru>
+Date:   Mon Oct 5 17:13:16 2026 +0300
+
+    add git log
+
 commit 723238d7b1e68ff25c40c0ebea6df20e26eba2e9
 Merge: b07e980 e6fcd33
 Author: afonia <afonia_university@bk.ru>
